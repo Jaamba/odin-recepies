@@ -1,0 +1,30 @@
+.title {
+    font-size: 50px;
+    font-weight: bold;
+    color: aqua;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width:50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 80%;
+}
+p, li {
+    font-size: medium;
+    font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+li {
+    text-align: left;
+}
+.header {
+    text-decoration:dashed;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
